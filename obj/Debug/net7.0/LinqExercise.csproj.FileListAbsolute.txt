@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\LinqExercise.exe
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\LinqExercise.deps.json
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\LinqExercise.runtimeconfig.json
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\LinqExercise.dll
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\LinqExercise.pdb
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.AssemblyInfo.cs
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.csproj.CopyComplete
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.dll
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\refint\LinqExercise.dll
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.pdb
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\LinqExercise.genruntimeconfig.cache
+C:\Users\HP\source\repos\aufgabe-7-linq-Koki212\obj\Debug\net7.0\ref\LinqExercise.dll
